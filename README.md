@@ -9,3 +9,9 @@ This is a simple Java-based application that demonstrates the concept of  **Meth
   * **Method Overloading:** multilple 'main' method with different parameter lists.
   * **Ststic Method:** To access methods without creating objects.
   * **String Formatting:** Displaying account detils like Balance, Mobile Number, and Address.
+
+## Project & Profile Links 
+* **GitHub Repository:** [https://github.com/iamprathapOak/Bank-Account-Opening-System](https://github.com/iamprathapOak/Bank-Account-Opening-System)
+
+## Contact 
+Developed by **Prathap** 
